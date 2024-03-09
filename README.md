@@ -27,5 +27,5 @@
 <p style="text-align:right;">
 <left><font size='6'><a href="C:/Users/97156/Documents/Wsatimes.html">Go back to home page</a></font></left>
 </p>
-</br>
+
 </html>
