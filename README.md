@@ -4,9 +4,6 @@
 <font size='4' face='brush script MT' color='black'>
 <h1> <center> Term 1 </center> </h1>
 </font>
-<title>
-WSA Times 
-</title>
 </head>
 
 <body bgcolor="lightblue" >
